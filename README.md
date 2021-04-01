@@ -26,11 +26,11 @@ Devnnect é um protótipo de aplicação responsiva que foi pensado para treinar
 
 Até o momento não há ligação com Back-end, pois foquei em praticar algumas habilidades específicas, mas com uma boa implementação poderia ser uma ótima ferramenta para conectar desenvolvedores de todos os níveis (especialmente iniciantes) para que usuários possam compartilhar diversas informações em aplicativos que eles ja usam diariamente.
 
-                                                       RESPONSIVE
+*RESPONSIVE*
 ![Devnnect_mobile](https://user-images.githubusercontent.com/73749439/113194634-b9068180-9237-11eb-8bc8-bde6aa875a8a.png)
 
 
-                                                          WEB
+*WEB*
 ![Devnnect_web](https://user-images.githubusercontent.com/73749439/113191715-40ea8c80-9234-11eb-90f3-b34ede29e625.png)
 
 
